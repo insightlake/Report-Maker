@@ -1,6 +1,8 @@
 # Report-Maker
 Report Maker
 
+<img style="width:100%;" src="images/reportmain.png">
+
 What is InsightLake Report Maker?
 -----------
 
@@ -9,9 +11,15 @@ InsightLake Report Maker provides an intuitive UI and allows users to build know
 Pages:
 
 Knowledge Base Chapters
+<img style="width:100%;" src="images/kbase.png">
 Allow a user to create new chapter. User can write content, refer to images etc.
+<img style="width:100%;" src="images/chapters.png">
 
 Reports
+<img style="width:100%;" src="images/template.png">
+<img style="width:100%;" src="images/report1.png">
+<img style="width:100%;" src="images/report2.png">
+<img style="width:100%;" src="images/genreport.png">
 Allow a user to create new report using a predefined template, user fills template data. Suggestions are prompted and text snippets are added.
 
 Collaboration
