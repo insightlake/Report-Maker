@@ -19,7 +19,7 @@ Reports
 <img style="width:100%;" src="images/template.png">
 <img style="width:100%;" src="images/report1.png">
 <img style="width:100%;" src="images/report2.png">
-<img style="width:100%;" src="images/genreport.png">
+<img style="width:100%;" src="images/genreport1.png">
 Allow a user to create new report using a predefined template, user fills template data. Suggestions are prompted and text snippets are added.
 
 Collaboration
