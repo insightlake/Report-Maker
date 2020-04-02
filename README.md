@@ -1,51 +1,47 @@
 # Report-Maker
-Report Maker
 
 <img style="width:100%;" src="images/reportmain.png">
-
-What is InsightLake Report Maker?
------------
 
 InsightLake Report Maker provides an intuitive UI and allows users to build knowledge base and create quick reports. It uses NLP models to provide suggestions and quick search. It also allows team collaboration. 
 <img style="width:100%;" src="images/kbase.png">
 
-Knowledge Base
-------
+## Knowledge Base
+
 
 <img style="width:100%;" src="images/kbase.png">
 
-Chapters
--------
+## Chapters
+
 Allow a user to create new chapter. User can write content, refer to images etc.
 <img style="width:100%;" src="images/chapters.png">
 
-Reports
--------
+## Reports
 
-Templates
+
+### Templates
 <img style="width:100%;" src="images/template.png">
 
-Report Creation
+### Report Creation
 <img style="width:100%;" src="images/report1.png">
 
 <img style="width:100%;" src="images/report2.png">
 
-Generated Report
+### Generated Report
 
 <img style="width:100%;" src="images/genreport1.png">
 
 Allow a user to create new report using a predefined template, user fills template data. Suggestions are prompted and text snippets are added.
 
-Collaboration
+### Collaboration
 We need to allow other users to review document and provide comments, approve document.
 
-Generation
+### Generation
 Click on the generate report button, which will create a pdf report. 
 
-Search
+### Search
 Allows users to search reports, chapters etc
 
-Audit/History
+### Audit/History
 We can update and create new drafts and versions
 
 
