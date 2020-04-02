@@ -3,9 +3,12 @@
 <img style="width:100%;" src="images/reportmain.png">
 
 
+## Introduction
+
 InsightLake Report Maker provides an intuitive UI that allows users to build a knowledge base and create quick PDF reports. It uses NLP models to provide suggestions and quick search. It also allows team collaboration. 
 
 <img style="width:100%;" src="images/home.png">
+
 
 ## Knowledge Base
 
@@ -14,6 +17,7 @@ Users can create knowledge bases as a reference material, which can be used in r
 <img style="width:100%;" src="images/kbase.png">
 
 Chapter groups contain chapters about various topic like Security would contain IAM Permissions chapter.
+
 
 ## Chapters
 
