@@ -2,51 +2,62 @@
 
 <img style="width:100%;" src="images/reportmain.png">
 
-InsightLake Report Maker provides an intuitive UI and allows users to build knowledge base and create quick reports. It uses NLP models to provide suggestions and quick search. It also allows team collaboration. 
-<img style="width:100%;" src="images/kbase.png">
+
+InsightLake Report Maker provides an intuitive UI that allows users to build a knowledge base and create quick PDF reports. It uses NLP models to provide suggestions and quick search. It also allows team collaboration. 
+
+<img style="width:100%;" src="images/home.png">
 
 ## Knowledge Base
 
+Users can create knowledge bases as a reference material, which can be used in reports. A Knowledge base contains chapter groups. For example we can create a knowledge base of AWS Cloud and it can contain chapter groups of Storage, Big Data, Machine Learning, Security etc.
 
 <img style="width:100%;" src="images/kbase.png">
 
+Chapter groups contain chapters about various topic like Security would contain IAM Permissions chapter.
+
 ## Chapters
 
-Allow a user to create new chapter. User can write content, refer to images etc.
+Chapters are reference topics containing details, which could be easily included in a report.
+
 <img style="width:100%;" src="images/chapters.png">
+
 
 ## Reports
 
+Users can create different types of reports for example Engagement report, Architecture report etc. These reports can contain Specific details or solutions and reference material from knowledge base. 
 
 ### Templates
+
+Different templates can be created to provide a framework (important sections etc.) for reports. 
+
 <img style="width:100%;" src="images/template.png">
 
 ### Report Creation
+
+Using intuitive editor reports can be created and previewed and reference chapters could be added.
+
 <img style="width:100%;" src="images/report1.png">
 
 <img style="width:100%;" src="images/report2.png">
 
-### Generated Report
+
+### Collaboration
+
+Users can collaborate on the report, provide and incorporate feedback changes.
+
+### Generation
+
+Users can generate a report in PDF form and download them. 
 
 <img style="width:100%;" src="images/genreport1.png">
 
-Allow a user to create new report using a predefined template, user fills template data. Suggestions are prompted and text snippets are added.
-
-### Collaboration
-We need to allow other users to review document and provide comments, approve document.
-
-### Generation
-Click on the generate report button, which will create a pdf report. 
-
 ### Search
-Allows users to search reports, chapters etc
+
+Users can search reports using metadata and contents.
 
 ### Audit/History
-We can update and create new drafts and versions
 
-
-To learn more, check out [http://insightlake.com/reportmaker.html](http://insightlake.com/reportmaker.html)
-
+Reports and knowledge base changes, approval history are captured.
 
 
 Installation
