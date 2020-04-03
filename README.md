@@ -53,7 +53,14 @@ Users can collaborate on the report, provide and incorporate feedback changes.
 
 Users can generate a report in PDF or Google form and can also download them. 
 
+#### PDF
+
 <img style="width:100%;" src="images/genreport1.png">
+
+#### Google Doc
+
+<img style="width:100%;" src="images/gdoc.png">
+
 
 ### Search
 
