@@ -51,7 +51,7 @@ Users can collaborate on the report, provide and incorporate feedback changes.
 
 ### Generation
 
-Users can generate a report in PDF form and download them. 
+Users can generate a report in PDF or Google form and can also download them. 
 
 <img style="width:100%;" src="images/genreport1.png">
 
@@ -63,6 +63,9 @@ Users can search reports using metadata and contents.
 
 Reports and knowledge base changes, approval history are captured.
 
+### GIT Integration
+
+Solution can be integrated with GIT easily.
 
 Installation
 ------
