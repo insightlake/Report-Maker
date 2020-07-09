@@ -88,7 +88,7 @@ Installation using docker
 * Change configuration in lib h2.properties file
 * Assign elastisearch configuration and basdir path inside container
 * cd docker
-* docker-compose -f docker-compose.yaml -up 
+* docker-compose -f docker-compose.yaml up 
 
 
 License
