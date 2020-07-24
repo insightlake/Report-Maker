@@ -87,9 +87,9 @@ Installation using docker
 * Download or clone the repository. 
 * Change configuration in lib h2.properties file
 * Assign elastisearch configuration and basdir path inside container
-* cd docker
-* docker-compose -f docker-compose.yaml up 
-
+* cd /docker
+* Run `docker-compose -f docker-compose.yaml up --build`
+* Open browser with URL as http://localhost:9494/insightlake
 
 License
 ------
