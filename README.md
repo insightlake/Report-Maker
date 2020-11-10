@@ -74,6 +74,8 @@ Reports and knowledge base changes, approval history are captured.
 
 Solution can be integrated with GIT easily.
 
+To learn more, check out [http://www.insightlake.com/report-maker.html](http://www.insightlake.com/report-maker.html)
+
 Installation
 ------
 * Download or clone the repository. 
